@@ -7,7 +7,7 @@
 </h3>
 
 <h3 align="center">
-  #rocketseat, #nodejs, #express, #sequelize, #mongodb, #redis, #jwt, #nodemailer, #youch, #yup
+  #rocketseat, #nodejs, #javascript, #express, #sequelize, #postbird, #jwt, #mvc, #docker 
 </h3>
 
 <p align="center">
