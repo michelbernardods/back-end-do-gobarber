@@ -2,6 +2,7 @@
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
+
 <h3 align="center">
   GoBarber - Aplicação desenvolvida durante o curso de NodeJS
 </h3>
@@ -61,9 +62,11 @@ Abaixo segue todo o conteúdo que foi abordado no curso para o desenvolvimento d
 - Yarn dev para iniciar servidor
 - Servidor rodando na PORTA 3333
 
-## :memo: Licença
 
 ![aplicaçao](https://user-images.githubusercontent.com/42414475/72232990-71002e00-35a3-11ea-906f-5e21711a1a0b.png)
+
+
+## :memo: Licença
 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
