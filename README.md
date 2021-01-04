@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  GoBarber - Aplicação desenvolvida durante o curso de NodeJS
+  GoBarber - Application developed during the NodeJS course
 </h3>
 
 <h3 align="center">
@@ -26,50 +26,49 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-sobre-a-aplicação">About-The-Application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
 </p>
 
-## :rocket: Sobre a Aplicação
+## :rocket: About The Application
 
-É uma API para cadastro de usuários para futuro agendamento na barbearia, o **GoBarber**.
+It is an API for registering users for future scheduling at the barber shop the **GoBarber**.
 
-Abaixo segue todo o conteúdo que foi abordado no curso para o desenvolvimento da aplicação.
+Below follows all the content that was covered in the course for the development of the application.
 
-## Iniciando Back-end GoBarber 
+## Starting GoBarber Backend 
 
-- Configurando estrutura
+- Configuring structure
 - Nodemon & Sucrase
-- Conceitos do Docker
-- Configurando Docker
+- Docker concepts
+- Configuring Docker
 - Sequelize & MVC
 - ESLint, Prettier & EditorConfig
-- Configurando Sequelize
-- Migration de usuário
-- Model de usuário
-- Criando loader de models
-- Cadastro de usuários
-- Gerando hash da senha
-- Conceitos de JWT
-- Autenticação JWT
-- Middleware de autenticação
-- Update do usuário
-- Validando dados de entrada
+- Configuring Sequelize
+- User migration
+- User model
+- Creating model loader
+- User registration
+- Hashing the password
+- JWT concepts
+- JWT authentication
+- Authentication middleware
+- User update
+- Validating input data
 
-# Dependêndias para iniciar o projeto 
+# Dependencies to start the project 
 
-- Uso o Yarn para baixar todas as dependeências
-- Yarn dev para iniciar servidor
-- Servidor rodando na PORTA 3333
-
-
-![aplicaçao](https://user-images.githubusercontent.com/42414475/72232990-71002e00-35a3-11ea-906f-5e21711a1a0b.png)
+- I use Yarn to download all dependencies
+- Yarn dev to start server
+- Server running on PORT 3333
 
 
-## :memo: Licença
+![aplication](https://user-images.githubusercontent.com/42414475/72232990-71002e00-35a3-11ea-906f-5e21711a1a0b.png)
 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+## :memo: License
 
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 ---
-Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
