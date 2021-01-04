@@ -7,9 +7,6 @@
   GoBarber - Application developed during the NodeJS course
 </h3>
 
-<h3 align="center">
-  #rocketseat, #nodejs, #javascript, #express, #sequelize, #postbird, #jwt, #mvc, #docker 
-</h3>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
@@ -26,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-a-aplicação">About-The-Application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-a-aplicação">About The Application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
 
