@@ -66,6 +66,6 @@ Below follows all the content that was covered in the course for the development
 ## :memo: License
 
 
-#### This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+###### This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 ---
 Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
